@@ -1,0 +1,914 @@
+#EXTM3U 
+#EXTINF: -1 tvg-logo="https://static.epg.best/in/StarJalsha.in.png" group-title="Woman like", star jalsha-1
+https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Woman like",Star Jalsha-2
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Woman like",Star Jalsha -3
+https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" group-title="Woman like",Star Jalsha-4
+http://103.109.56.116/live/skyfeed1003/index.m3u8 
+
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Woman like",Star Jalsha-5
+http://103.109.56.116/live/skyfeed1003/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/GOamt6U.jpg" group-title="Woman like",Zee Bangla-1
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTx0v27njjqXTM-p3Sw3YNyH59Ub2GiwWdlplw-UQ=s900-c-k-c0x00ffffff-no-rj" group-title="Woman like", zee bangla-2
+https://last.gcdn.co/IND389/tracks-v1a1/mono.m3u8
+
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="Woman like", Zee Bangla-3
+http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png" group-title="Woman like", Zee Bangla-4
+http://65.2.4.240/jioo.php?c=Zee_Bangla&q=1200&e=.m3u8
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="http://thekolkatamail.com/wp-content/uploads/2020/06/zee-bangla-logo.jpg" group-title="Woman like",Zee Bangla-5
+https://snehz5tvnew.herokuapp.com?c=0-9-zeebangla
+
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Woman like",Zee Bangla-6
+http://103.109.56.116/live/skyfeed1004/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Woman like",Sony Aath
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29119.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Woman like", Sony aath HD
+https://last.gcdn.co/IND397/index.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Woman like",Colors Bangla
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3415.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png" group-title="Woman like", Colors Bengali HD
+http://65.2.4.240/jioo.php?c=Colors_Bengali_HD&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="Woman like", Sony SAB HD
+http://65.2.4.240/jioo.php?c=Sony_SAB_HD&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB.png" group-title="Woman like", Sony SAB
+http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/21177.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://www.nicepng.com/png/detail/5-54845_star-plus-star-plus-logo-png.png" group-title="Woman like", Star Plus
+http://103.72.179.30:1935/GECHindi/STAR_PLUS.stream_720p/Playlist.m3u8
+
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logosfake/images/f/f3/StarPlus_HD_2011.png" group-title="Woman like",Star Plus HD
+http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
+
+
+
+
+******* Bangla*******
+
+
+#EXTINF: -1 tvg-logo="http://www.amaderbarisal.com/wp-content/uploads/2013/02/ekattor-tv-live-stream-watch-live.jpg" group-title="Bangla", Ettator TV
+https://last.gcdn.co/IND429/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="Bangla",Jamuna TV
+https://last.gcdn.co/IND432/index.m3u8
+
+
+#EXTINF:-1 tvg-id="JamunaTV.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png" group-title="Bangla",Jamuna TV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="ChannelI.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I HD 
+https://last.gcdn.co/IND435/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ChannelI.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ChannelI.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png" group-title="Bangla",Channel I 2ND
+"https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="JonmoBhumiTV.au" tvg-country="AU" tvg-language="Bengali" tvg-logo="http://www.jonmobhumi.tv/wp-content/uploads/2017/11/Final-Red-Logo.png" group-title="Bangla",JonmoBhumi TV 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1XbycYg.jpg" group-title="Bangla", RTV
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/1GwELpO.jpg" group-title="Bangla", Masranga Tv
+https://tempx.jagobd.com:441/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/live-orgin/mass.stream/chunks.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/Nagorik_TV_Logo.png/150px-Nagorik_TV_Logo.png" group-title="Bangla", Nagorik TV
+https://last.gcdn.co/IND433/index.m3u8
+
+#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://www.ntvbd.com/sites/all/themes/sloth/images/ntv-facebook.jpg" group-title="Bangla", N TV
+https://last.gcdn.co/IND420/index.m3u8
+
+
+#EXTINF:-1 tvg-id="IndependentTV.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/157px-Independent_Television_Logo.svg.png" group-title="Bangla",Independent TV 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IndependentTV.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/157px-Independent_Television_Logo.svg.png" group-title="Bangla",Independent TV HD
+https://last.gcdn.co/IND430/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="IndependentTV.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://d2u0ktu8omkpf6.cloudfront.net/222422f7c0689124a5a36e73baddac315f12ec718fcf60fe.jpg" group-title="Bangla",Somoy tv
+https://last.gcdn.co/IND418/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/207px-ATN_Bangla.svg.png" group-title="Bangla",ATN Bangla 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ATNBangla.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/ATN_Bangla.svg/207px-ATN_Bangla.svg.png" group-title="Bangla",ATN Bangla HD
+https://last.gcdn.co/IND436/index.m3u8
+
+
+#EXTINF:-1 tvg-id="ATNBanglaUK.bd" tvg-country="UK" tvg-language="Bengali" tvg-logo="http://atnbanglauk.tv/wp-content/uploads/2015/04/sized1.png" group-title="Bangla",ATN Bangla UK  
+https://last.gcdn.co/IND438/index.m3u8
+
+#EXTINF:-1 tvg-id="ATNNews.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://i.imgur.com/2F1BaT2.gif" group-title="Bangla",ATN News 
+https://last.gcdn.co/IND437/index.m3u8
+
+
+#EXTINF:-1 tvg-id="BanglaVision.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://i.imgur.com/doJuPjL.png" group-title="Bangla",Bangla Vision 
+https://last.gcdn.co/IND423/index.m3u8
+
+
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BijoyTV.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png" group-title="Bangla",Bijoy TV 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="http://www.boishakhionline.com/frontend_source/assets/images/logo.png" group-title="Bangla",Boishakhi TV HD
+https://last.gcdn.co/IND447/index.m3u8
+
+#EXTINF:-1 tvg-id="BoishakhiTV.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="http://www.boishakhionline.com/frontend_source/assets/images/logo.png" group-title="Bangla",Boishakhi TV 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BTVWorld.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://i.imgur.com/1Chamk9.png" group-title="Bangla",BTV World 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="CanBanglaTV.ca" tvg-country="CA" tvg-language="Bengali" tvg-logo="https://i.imgur.com/CMUHtv3.png" group-title="Bangla",CanBangla TV 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel24.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Channel24logo.svg/400px-Channel24logo.svg.png" group-title="Bangla",Channel 24 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-id="DBCNews.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="Bangla",DBC News 
+https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/dbcnews.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="DBCNews.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://dbcnews.tv/img/dbc.png" group-title="Bangla",DBC News HD
+https://last.gcdn.co/IND428/index.m3u8
+
+
+#EXTINF:-1 tvg-id="EkusheyTV.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://i.imgur.com/5XjSZbN.png" group-title="Bangla",Ekushey TV 
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/e344Py8.png" group-title="Bangla", MY TV
+https://last.gcdn.co/IND439/index.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/cZVRoNH.jpg" group-title="Bangla", Bangla TV
+https://last.gcdn.co/IND422/index.m3u8
+
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/xnYijYq.jpg" group-title="Bangla", BTV WORLD
+https://last.gcdn.co/IND427/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/lI2lBEl.jpg" group-title="Bangla", BTV
+https://last.gcdn.co/IND427/index.m3u8
+
+#EXTINF: -1 tvg-logo="http://www.deshibiz.com/img/media/post/1463679374_SATV.jpg" group-title="Bangla", SA tv 
+https://last.gcdn.co/IND449/index.m3u8
+
+#EXTINF:-1 tvg-id="DeenTV.uk" tvg-country="UK" tvg-language="Bengali" tvg-logo="https://www.deepto.tv/sites/default/files/deepto_tv_logo%20Edit.png" group-title="Bangla",Deepto TV 
+https://last.gcdn.co/IND445/index.m3u8
+
+#EXTINF:-1 tvg-id="IonTV.uk" tvg-country="UK" tvg-language="Bengali" tvg-logo="http://www.iontv.co.uk/wp-content/uploads/thegem-logos/logo_5052020503c1c4324dda9918122bbb46_2x.png" group-title="Bangla",iON TV 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="News24.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://www.news24bd.tv/assets/desktop/images/logos/logo.png" group-title="Bangla",News 24 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="NexusTV.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://i.imgur.com/XcJZKg4.png" group-title="Bangla",Nexus TV 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nexustv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NRBTV.ca" tvg-country="CA" tvg-language="Bengali" tvg-logo="https://www.thenrb.tv/organization/logo/nrb-tv_WJkwkcRXBEVrzo5_1576430300.jpg" group-title="Bangla",NRB TV 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/nrb-eu.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="NTVEurope.bd" tvg-country="EUR" tvg-language="Bengali;English" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png" group-title="Bangla",NTV Europe 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Bangla",Alpona Tv
+https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/alponatv.stream/chunks.m3u8
+
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Bangla", i Channel 
+https://last.gcdn.co/IND445/index.m3u8
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Bangla",CNN Bangla
+http://d1zuxgm0d4hmth.cloudfront.net/cnnbangla/01.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Bangla",Deshe Bideshe HD
+https://tempabs.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/chunks.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Bangla",KTV Bangla
+https://server1.jadubd.com/ktvbangla/ktvbangla/playlist.m3u8
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Bangla",Movie Bangla
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Bangla",NAN TV
+https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nantv.stream/chunks.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Bangla",Nexus TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nexustv.stream/chunks.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Bangla",Sristy Tv
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/sristytv.stream/chunks.m3u8
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Bangla",Voice
+https://tempabs.jagobd.com:444/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/voicetv.stream/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="DeenTV.uk" tvg-country="UK" tvg-language="Bengali" tvg-logo="http://deentv.uk/wp-content/uploads/2021/08/cropped-DEEN-TV-LOGO-FINAL-80x80-1.png" group-title="Bangla",Deen TV Deepto TV 
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deentv.stream/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="DesheBidesheTV.ca" tvg-country="CA" tvg-language="Bengali" tvg-logo="https://www.deshebideshe.tv/assets/importent_images/footer-logo.png" group-title="Bangla",DesheBideshe TV (720p)
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DoyelTV.ca" tvg-country="CA" tvg-language="Bengali" tvg-logo="http://www.doyeltv.com/wp-content/uploads/2020/12/LOGO-BUG-without-Slogan.png" group-title="Bangla",Doyel TV 
+http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
+
+*** NEW ***
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Jamuna TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Channel 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",News 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Somoy News
+https://last.gcdn.co/IND418/index.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",DBC News
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Maasranga
+https://tempx.jagobd.com:441/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mass.stream/live-orgin/mass.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Independent
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Channel I
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",NTV
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",RTV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Boishakhi
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",My TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Ekushey TV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Mohona Tv
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mohonatv00000223232244556633.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",SATV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",BTV
+http://103.106.2.149:13456/btv.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",BTV World
+http://103.106.2.149:13456/btv_world.m3u8
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Sangsad Bangladesh
+http://103.106.2.149:13456/sangsad.m3u8
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",BTV Chattagram
+http://103.106.2.149:13456/btv_ctg.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Deepto TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Channel 9
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Ekattor
+https://live.sonyplex.com/sonyplex/Ekattor-TV.stream/index.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Nagorik
+http://goiptv.co:8080/AV.tar.canada/QF1XP4AR4Y/27118
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Asian TV
+http://cdn-sgp.oc.bd-cast.com/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Desh Tv
+http://jupiter.bdcabletv.com/DeshTV/video.m3u8
+#https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deshtv.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Banglavision
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",ATN NEWS
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnws-sg.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",ATN Bangla
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Gazi TV
+http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Bangla TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Ananda TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Bangla",Bijoy TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+
+*** NEW END ***
+
+******* Bangla*******
+
+
+
+******* Entertainment *******
+
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Colors Cineplex HD
+http://103.81.104.118/hls/colorscineplex.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Rishtey Cineplex HD
+https://viacom-b.multitvsolution.com/viacomhls/rishteycineplex_720p/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Entertainment",Sony Entertainment HD
+http://221.120.204.4/SONY-HD-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Entertainment",Box Cinema
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Entertainment", Zee Cinema
+https://feed.play.mv/live/1009/U4igJyzIbn/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Entertainment",Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Entertainment",Sony Wah
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/196.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aakaash_bangla.png" group-title="Entertainment", Aakash Aath
+http://65.2.4.240/jioo.php?c=Aakaash_bangla&q=1200&e=.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-_3_0i-y26m0/Tm5wVcNv-VI/AAAAAAAACIA/GJ-OHQR67ow/s500/StarGold+logo+2011.jpg" group-title="Entertainment",STAR Gold HD
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsaTaXo1c11uyRGpHyWPC28Q/ts
+
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Entertainment", Sony Max SD
+http://65.2.4.240/jioo.php?c=Sony_Max_HD&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Entertainment", Sony Max HD
+http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/194209.m3u8
+
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Entertainment", Sony Max
+http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/139808.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="Entertainment", Sony Max HD+
+http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/23808.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="Entertainment", Zee Cinema HD
+http://65.2.4.240/jioo.php?c=Zee_Cinema_HD&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema.png" group-title="Entertainment", Zee Cinema
+http://65.2.4.240/jioo.php?c=Zee_Cinema&q=1200&e=.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Sony Max HD 
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Star Plus HD 
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Zee TV HD
+http://221.120.204.4/zee-tv-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Zee Cinema HD
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Zee Cinema HD [2]
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Entertainment", Colors Cineplex HD
+http://65.2.4.240/jioo.php?c=Colors_Cineplex_HD&q=1200&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png" group-title="Entertainment", Sony Pal
+http://65.2.4.240/jioo.php?c=Sony_Pal&q=1200&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png" group-title="Entertainment", Sony MAX2
+http://65.2.4.240/jioo.php?c=Sony_MAX2&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_SD.png" group-title="Entertainment", Sony Pix SD
+http://65.2.4.240/jioo.php?c=Sony_Pix_SD&q=1200&e=.m3u8
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Bflix Movies
+https://piratesiptv.shortcm.li/bflix.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Bollywood Premier
+https://piratesiptv.shortcm.li/bpremier.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Box Cinema
+https://piratesiptv.shortcm.li/boxcinema.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Dabang TV
+https://piratesiptv.shortcm.li/dabang.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Maha Movie
+https://piratesiptv.shortcm.li/maha.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Manoranjan Movies
+https://piratesiptv.shortcm.li/manoranjan.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",MH 1
+https://piratesiptv.shortcm.li/mh1.m3u8
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Wow Cinema
+https://piratesiptv.shortcm.li/wow.m3u8
+
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://seeklogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="Entertainment",STAR MOVIES HD
+http://fastmedia.watch:2086/live/hawadiscord/Fqdb9urXdX/121167.m3u8
+
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://seeklogo.net/wp-content/uploads/2015/09/star-movies-logo-vector-download.jpg" group-title="Entertainment",STAR MOVIES
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Movies.png" group-title="Entertainment", B4U Movies
+http://65.2.4.240/jioo.php?c=B4U_Movies&q=1200&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Bflix_Movies.png" group-title="Entertainment", Bflix Movies
+http://65.2.4.240/jioo.php?c=Bflix_Movies&q=1200&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Osar_Movies.png" group-title="Entertainment", Oscar Movies
+http://65.2.4.240/jioo.php?c=Oscar_Movies&q=1200&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/J_Movies.png" group-title="Entertainment", J Movies
+http://65.2.4.240/jioo.php?c=J_Movies&q=1200&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Manoranjan_Movies.png" group-title="Entertainment", Manoranjan Movies
+http://65.2.4.240/jioo.php?c=Manoranjan_Movies&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Entertainment", Jalsha Movies HD
+https://last.gcdn.co/IND399/index.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Entertainment", Jalsha Movies
+http://65.2.4.240/jioo.php?c=Jalsa_Movies_HD&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="BoogleBollywood.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="http://booglebollywood.com/wp-content/uploads/2018/02/boogle-bollywood-final_2-300x96.png" group-title="Entertainment",Boogle Bollywood (400p) [Not 24/7]
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+#EXTINF:-1 tvg-id="BoxCinema.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/LGJlmtp.png" group-title="Entertainment",Box Cinema
+http://14.199.164.20:4001/play/a0su/index.m3u8
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Entertainment",Movie Bangla
+https://tempinfobase.jagobd.com:444/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanGrand.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/2BSvBGG.png" group-title="Entertainment",Manoranjan Grand 
+http://14.199.164.20:4001/play/a0m2/index.m3u8
+
+
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Entertainment",Zee Bangla Cinema
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3408.m3u8
+
+#EXTINF:0 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Entertainment",Jalsha Movies HD
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3412.m3u8
+
+
+
+*******End Entertainment*******
+
+
+******* Documentery *******
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/jXZCYvK.jpg" group-title="Documentery",Discovery Hindi
+https://idvd.multitvsolution.com:443/idvo/discoveryhindi_540p/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentery",Discovery Bangla
+https://last.gcdn.co/IND415/index.m3u8
+#http://213.151.233.20:8000/dna-6179-tv-pc/hls/4005v102.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/jXZCYvK.jpg" group-title="Documentery",Discovery English
+https://idvd.multitvsolution.com:443/idvo/discoveryeng_540p/index.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png" group-title="Documentery", Discovery Channel Bengali
+http://65.2.4.240/jioo.php?c=Discovery_Channel_Bengali&q=1200&e=.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/ESeGnT2.jpg" group-title="Documentery",Discovery Bangla
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/SEvBqtE.jpg" group-title="Documentery",Animal Planet
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/1643.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/gIbwrgN.png" group-title="Documentery",Discovery Science Hindi
+https://idvd.multitvsolution.com:443/idvo/discoversciencehindi_540p/index.m3u8
+#EXTINF:0 tvg-logo="https://bestmediainfo.com/uploads/2014/11/Turbo-logo-Black-top.jpg" group-title="Documentery",Discovery Turbo
+https://idvd.multitvsolution.com:443/idvo/turboeng_540p/index.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/KftxgdM.jpg" group-title="Documentery",Nat Geo Wild
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+#https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="Documentery",National Geographic Eng.
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/23658.m3u8
+#https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://1000logos.net/wp-content/uploads/2017/04/National-Geographic-Logo.png" group-title="Documentery",National Geographic Bangla
+https://last.gcdn.co/IND414/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Documentery", Discovery HD [12]
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Documentery", Discovery Science [12]
+https://feed.play.mv/live/1009/TRKXs71yTR/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Documentery", Discovery SD [12]
+https://feed.play.mv/live/1009/4wC5xmuTf8/master.m3u8
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Documentery", Discovery Turbo [12]
+https://feed.play.mv/live/1009/1UjOk2jBiR/master.m3u8
+
+#EXTINF:-63 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Documentery",Discovery English HD
+https://feed.play.mv/live/10005200/2Lkn0sCJBz/1.m3u8
+http://172.17.50.112/live/antbd1008/index.m3u8
+
+#EXTINF:-66 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Documentery",NAT GEO HD Bangla
+https://last.gcdn.co/IND414/index.m3u8
+
+#EXTINF:-68 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Documentery",Travel Tv HD
+https://streamer104.neterra.tv/thisisbulgaria/community.smil/chunklist_w1084546598_b2128000_slbul.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Documentery",BBC Earth
+https://feed.play.mv/live/10005200/7EsSDh7aX6/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Documentery", Animal Planet HD
+https://idvd.multitvsolution.com/idvo/aphdhindi_540p/index.m3u8
+#EXTINF:-73 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Documentery",Nasa tv
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8 
+
+
+******* Documentery *******
+
+
+
+
+******* Sports *******
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Sports",Gazi TV
+http://acdn.bdixsports.live:1935/live/event360.stream/chunklist_w1437616252.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Sports",Gazi TV SD
+https://last.gcdn.co/IND425/index.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Sports",Gazi TV HD 
+https://live.sonyplex.com/ott/gtv.stream/chunklist_w1564445692.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/UX65dLL.png" group-title="Sports",Gazi TV HD +
+https://last.gcdn.co/IND425/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports HD
+http://uknet.ddns.net/905.stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T Sports 
+http://10.16.100.207:8082/sports/tSpots_loacal.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/SonyTEN1HD_Masthead_Logo.png" group-title="Sports",Sony Ten 1 HD
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://dsnnepal.com/wp-content/uploads/2020/08/sony-ten-2-hd.png" group-title="Sports",Sony Ten 2 HD
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/172.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/96/84/c2/9684c2fc0f499b7a56189a7ca06fffc9.png" group-title="Sports",Sony Ten 3 HD
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png" group-title="Sports",Sony Six HD
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/3404.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sports",Star Sports 1 HD
+http://103.109.56.116/live/skyfeed1002/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/STAR_Sports_1_logo.png" group-title="Sports",Star Sports 1 HD 2
+#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/179.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kgj5v9F.png" group-title="Sports",Star Sports Select 1 HD
+http://opplex.tv:8080/live/996644/996644/109993.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJhMpeC.jpg" group-title="Sports",Star Sports 2 HD
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsZYiU9TEy7aG7drb5hKjnDM/ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7m8LXs0.jpg" group-title="Sports",Star Sports Select 2 HD
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYVV99hLFD5zWua6fLdsFNM/ts
+
+#EXTINF:0 tvg-name="PTV Sports" tvg-logo="https://s6.gifyu.com/images/image963bd04ad9300c80.png" group-title="Sports",PTV Sports HD
+http://mu03ye.wanicelife.com:8880/YALM4649/y6q3fhltq/31641
+
+#EXTINF:-147 tvg-logo="https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg" group-title="Sports",Geo Super
+http://221.120.204.4/geo-super-LOCKLE/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Sports",Ten Sports
+http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRCBCyHERjXilL4TmnZmTdIhHDlnZxFFcpqQ&usqp=CAU" group-title="Sports",WWE-1
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:0 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Watch-DD-Sports-TV-Live-Online.jpeg" group-title="Sports",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Sports",KS Sports 1
+http://93.157.62.180/KSport1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo=""group-title="Sports",K Sports
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports", Sony Six HD
+http://65.2.4.240/jioo.php?c=Six_HD&q=1200&e=.m3u8
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Six_SD.png" group-title="Sports", Sony Six SD
+http://65.2.4.240/jioo.php?c=Sony_Six_SD&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png"group-title="Sports",Bein Sports 1
+#http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6872.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png"group-title="Sports",Bein Sports 1 NEW 
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/4110.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS86H8YpcWlBeldqk6wb1WYHbLEE8iX-OLX2E5ABBYpJhV4e2HzWKmzT4v9QBucIITMMfg&usqp=CAU"group-title="Sports",Bein Sports 2
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/4111.m3u8
+
+#EXTINF: -1 tvg-logo="https://telegra.ph/file/557d72205e646ba616c3f.png" group-title="Sports",Bein Sports 3
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/6870.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/d9/d949b7315021ca8b57498f4ee6381025.jpeg" group-title="Sports",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DktF0DL/trtspor.png" group-title="Sports",TRT Spor
+https://tv-trt3.live.trt.com.tr/master_720.m3u8
+
+#EXTINF:0 tvg-logo="https://www.maryville.edu/wp-content/uploads/2017/08/tennis-channel-logo.png" group-title="Sports",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1M4zMdC.png" group-title="Sports",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+
+#EXTINF:0 tvg-logo="https://techcrunch.com/wp-content/uploads/2017/08/stadium-logo.jpg" group-title="Sports",Stadium
+https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master_3000k.m3u8
+
+#EXTINF:0 tvg-logo="https://audiovision.de/wp-content/uploads/2019/11/edge-sport.jpg" group-title="Sports",Edge Sports
+https://edgesports-row-rakuten.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="Sports",Bek Sports East
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/54d0bcd5/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sports",Dubai Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png" group-title="Sports",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+
+#EXTINF: -0 tvg-logo="https://i.imgur.com/dhV6vFA.jpg" group-title="Sports", AD Sports 1
+http://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+
+#EXTINF: -0 tvg-logo="https://i.imgur.com/dhV6vFA.jpg" group-title="Sports", AD Sports 2
+http://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+
+#EXTINF: -0 tvg-logo="https://i.imgur.com/dhV6vFA.jpg" group-title="Sports", AD Sports 3
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b450000_t64MzYwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/164/5e4c03ef4b.png" group-title="Sports", Abu Dhabi YAS
+https://admdn1ta.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/chunklist_b800000_t64NDgwcA==.m3u8
+
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934e3b33.png" group-title="Sports",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/71/5d934d8aa9.png" group-title="Sports", Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/DubaiSport3.png" group-title="Sports",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",GaziTV
+http://103.159.4.38:5868/BD-BANGLA-8/index.m3u8
+
+#EXTINF:-1 group-title="Sports" tvg-logo="",T-Sports
+http://103.159.4.38:5868/BD-BANGLA-11/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Sports", Sony Six HD
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2020/04/10.png" group-title="Sports",A Sports
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+
+
+
+******* Sports *******
+
+
+
+
+******* Kids *******
+#EXTINF:-1 tvg-id="CartoonNetworkIndia.us" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon_network_global.png" group-title="Kids",Cartoon Network India
+http://ent.gcdn.co/K4/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="HungamaTV.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDisney%252B&psig=AOvVaw3VXtfmvvwnl68IS6_ujDjF&ust=1637129930476000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCIkrCenPQCFQAAAAAdAAAAABAD" group-title="Kids",Disney
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+
+#EXTINF:-1 tvg-id="ChinolaTV.do" tvg-country="DO" tvg-language="Spanish" tvg-logo="https://i.imgur.com/axesNOe.png" group-title="Kids",Chinola TV 
+https://cdn4.hostlagarto.com:8081/static/Chinolatv/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Malayalam.png" group-title="Kids",Nick Malayalam
+http://65.2.4.240/jioo.php?c=Nick_Malayalam&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Bangla.png" group-title="Kids",Nick Bangla
+http://65.2.4.240/jioo.php?c=Nick_Bangla&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Marathi.png" group-title="Kids",Nick Marathi
+http://65.2.4.240/jioo.php?c=Nick_Marathi&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png" group-title="Kids",Sonic Bangla
+http://65.2.4.240/jioo.php?c=Sonic_Bangla&q=1200&e=.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids",Discovery Kids 2
+http://65.2.4.240/jioo.php?c=Discovery_Kids_2&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Kids",Cartoon Network
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Kids",Cartoon Network RU
+http://iptv.prosto.tv:7000/ch207/video.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Kids",Cartoon Network
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
+
+#EXTINF:-1 tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg" group-title="Kids",Cartoon Network Hindi (jio)
+http://jo123.biz/jweb/m3u8.php?c=Cartoon_Network_Hindi&q=600&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids",Disney Channel
+http://103.153.39.34:8000/play/a04m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u7VDHRz.png" group-title="Kids",Disney Channel (FPM)
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids",Discovery Kids (multitvsolution)
+https://idvd.multitvsolution.com/idvo/discoverykidshindi.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/swM1L4e.png" group-title="Kids",Discovery Kids 
+http://103.153.39.34:8000/play/a04s/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lYM7Gik.png" group-title="Kids",Sony Yay  (jio)
+http://65.2.4.240/jioo.php?c=Sony_Yay_Hindi&q=600&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xeanFZ7.png" group-title="Kids",Aniplus
+http://45.126.83.51/dr9445/h/h02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Kids",Animax
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SQS0HbU.png" group-title="Kids",Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/i5J3zrE.png" group-title="Kids",Pogo (jio)
+http://65.2.4.240/jioo.php?c=Pogo_Hindi&q=600&e=junk.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/t0Ecro6.png" group-title="Kids",Hungama Tv Hindi
+http://103.153.39.34:8000/play/a04l/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids",Nick  
+http://103.153.39.34:8000/play/a04r/index.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids",Nick Hindi (FPM)
+https://feed.play.mv/live/10005200/s5f1zEMJC1/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rm7OMLk.png" group-title="Kids",Nick (BDIX2)
+http://tv2.ebox.live:8080/live/nick.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dlL02Rv.png" group-title="Kids", Sonic Nickeloden
+http://103.153.39.34:8000/play/a04p/index.m3u8
+
+#EXTINF:0 tvg-language="Sohel_Ahmed" tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Kids",Duronto TV
+http://89.187.185.89:3232/ban-duronto/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Kids",Disnep Channel 
+https://feed.play.mv/live/10005200/QjZ4g9TmAa/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.banglanewsexpress.com/wp-content/uploads/2021/11/Md-Rakib-Hossain-Sojol-1.jpg" group-title="Kids",Disnep HD International News 
+https://feed.play.mv/live/10005200/IegKU9vXWg/master.m3u8
+
+
+******* End Kids *******
+
+ 
+ 
+ **International News**
+
+#EXTINF:0 tvg-logo="https://i.pinimg.com/originals/08/14/3f/08143f803bf851ad3386e7238e3b7e0e.jpg" group-title="International News",Al Jazeera
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/SpBW5W2.png" group-title="International News",BBC World News
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="International News",BBC News
+http://www.filmon.com/vr-streams/27.high/playlist.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/CuqQXZz.png" group-title="International News",CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/mUONwmG.jpg" group-title="International News",DW English
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream03/streamPlaylist.m3u8
+#EXTINF:0 tvg-country="PK" tvg-logo="https://i.imgur.com/YKiV4yR.png" group-title="International News",PTV Home
+https://live.ptv.com.pk/live/stream/ptvhome/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Atv_logosu.png" group-title="International News",ATV
+http://ozel.canlitvplayer.com:9000/TR_-_ATV_HD_PLUS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="FashionTVMumbai.fr" tvg-country="FR" tvg-language="English" tvg-logo="https://i.imgur.com/yvNu4Rm.png" group-title="International News",FashionTV
+https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-WU5YfY3WEZo/YMdDmOYuJoI/AAAAAAAABL4/s3WLrJ8Um7MsZUIYzn5DM63pB5Yh2YmggCLcBGAsYHQ/s320/images%252822%2529.jpeg" group-title="International News",ZEE News
+https://d233nwklwv8p4.cloudfront.net/out/v1/860cb318d23a4c64b58c9d625281170c/index_3.m3u8
+#EXTINF:0 tvg-logo="https://www.logolynx.com/images/logolynx/06/06a7ef972e12acd213d5c04095295fb6.jpeg" group-title="International News",Bloomberg Asia
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/43lszhG.png" group-title="International News",NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:0 tvg-logo="https://akm-img-a-in.tosshub.com/indiatoday/images/misc/livetv-share-aajtak.jpg" group-title="International News",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEiPmvMBx0DUhcqwhzOEDQRHllKXSk0j3_zCA78OPmNlVD9KkknZU0MS9Wovi0sx1OOgj2uNZlQW_dJa_fpWkPljeFSY_3aMTvij_o2vAMSysJn1ZsKSpgozcRL-_dDPAov170VTaqU7txYiVqLKYFmyceIUWwYk4vnN1JpfSjK0AXiqOsGh1r2n-Itp=s200" group-title="International News",MTV-US
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ5pLujf-Oh2SdHchYD6nvBoTMOeHyt6ppj9w&usqp=CAU" group-title="International News",India TV News	
+https://live-indiatvnews.akamaized.net/indiatv-origin/liveabr/indiatv-origin/live2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSDiviMl3S0mD4XHxa8urRzrMQAvFfnr9Iumw&usqp=CAU" group-title="International News",R Bharet	
+https://republic.pc.cdn.bitgravity.com/live/bharat_hls/masterlive_360p.m3u8
+#EXTINF:0 tvg-logo="https://www.indiantelevision.com/sites/default/files/styles/smartcrop_800x800/public/images/tv-images/2019/06/21/indiatoday.jpg" group-title="International News",India Today
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_4/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/1016/404/png-clipart-times-now-noida-film-city-television-channel-logo-asianet-newsable-television-blue.png" group-title="International News",Times Now HD
+https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
+#EXTINF:0 tvg-logo="https://d1v80af1fj0ehx.cloudfront.net/wp-content/blogs.dir/1/files/2017/10/42.WORLD_square_15_TV-300x300.jpg" group-title="International News",NHK World Japan
+https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/NHK%20World.m3u8
+#EXTINF:0 tvg-logo="https://licenceindia.s3.ap-south-1.amazonaws.com/s3fs-public/brandmay27licenseindia9335dde5d9c77e26.jpg" group-title="International News",Fashion TV
+https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF: -0 tvg-logo="https://www.channelnewsasia.com/blob/8396140/079e748f004a5699f1427ac5764878da/cna-logo-data.jpg" group-title="International News",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
+#EXTINF:0 tvg-logo="https://static.epg.best/in/TV5MondeAsie.in.png" group-title="International News",TV5 Monde
+https://tv5asieen-i.akamaihd.net/hls/live/631617/tv5asieen/index.m3u8
+#EXTINF:0 tvg-logo="https://www.screenafrica.com/wp-content/uploads/2018/11/TRT-world-696x398.png" group-title="International News",TRT World Turkey
+https://tv-trtworld.live.trt.com.tr/master_480.m3u8
+#EXTINF:-1 tvg-name="NASA TV Public" tvg-logo="https://i.imgur.com/rmyfoOI.png" group-title="International News",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 tvg-name="France 24 English" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="International News",France 24 English
+https://static.france24.com/live/F24_EN_HI_HLS/live_web.m3u8
+#EXTINF:-1 tvg-name="NASA TV Media" tvg-logo="https://i.imgur.com/rmyfoOI.png" group-title="International News",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E4l3jm1.png" group-title="International News",ERT World
+http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
+#EXTINF:-1 tvg-name="TVSN" tvg-logo="https://i.imgur.com/p3QCBOo.png" group-title="International News",TVSN
+https://tvsn-i.akamaihd.net/hls/live/261837/tvsn/tvsn_750.m3u8
+#EXTINF:0 tvg-logo="https://news.sky.com/assets/sky-news-logo.png?v=1" group-title="International News",Sky News
+http://skydvn-sn-mobile-prod.skydvn.com/skynews/1404/latest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pEmcFH.png" group-title="International News",Biz TV
+https://thegateway.app/BizAndYou/Biz_1080p/playlist.m3u
+#EXTINF: -0 tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/rt-png-7.png" group-title="International News",RT News
+http://rt-usa.secure.footprint.net:80/1105_800Kb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1yqTZhR.png" group-title="International News",Nuova Tv 1
+https://nuovatv.net:8443/tv/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0vauyV3.png" group-title="International News",Nuova Tv 2
+https://nuovatv.net:8443/tv2/stream.m3u8
+#EXTINF:0 tvg-logo="https://image.roku.com/developer_channels/prod/d6712574eef3921d712304d3069cf0b96ef8503ecf9486ebaace230c5a9326f0.png" group-title="International News",Arirang
+http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/News24_New_Logo.jpg" group-title="International News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/news24-origin/live1/chunks.m3u8?checkedby
+#EXTINF:0 tvg-logo="https://www.thewrap.com/wp-content/uploads/2020/07/Screen-Shot-2020-07-08-at-2.28.31-PM.png" group-title="International News",Newsmax TV
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/C/cnbc-tv18-logo-B6335AA0FB-seeklogo.com.png" group-title="International News",CNBC Awaaz
+https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYeq03ZcA0Xc7iBuZL6-5BioEWkJOAjPZoRg&usqp=CAU" group-title="International News",CTGN
+https://news.cgtn.com/resource/live/English Movie/cgtn-news.m3u8
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/ABP_News_logo.png/100px-ABP_News_logo.png" group-title="International News",ABP News
+https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTIn5ggFHMuZYYzngFd5Wn4v2jS64v8RQUAQ&usqp=CAU" group-title="International News",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+#EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbas7EC7sLiMseb3oZaNgRqpSh5zoNFudDhA&usqp=CAU" group-title="International News",ET Now
+http://etnowweblive-lh.akamaihd.net/i/ETN_1@348070/index_576_av-b.m3u8
+#EXTINF:-1 tvg-name="EBS 1" tvg-logo="https://i.imgur.com/s1y2zoe.png" group-title="International News",EBS 1
+http://ebsonair.ebs.co.kr/groundwavefamilypc/familypc1m/chunklist_w1960240276.m3u8
+#EXTINF:-1 tvg-name="EBS 2" tvg-logo="https://i.imgur.com/7K7zmoE.png" group-title="International News",EBS 2
+http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/playlist.m3u8
+
+
+ ** End International News**
+
+
+
+
+
+
+
+***** Music***
+
+#EXTINF:-1 tvg-id="GaanBangla.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sangeet_bangla.jpg" group-title="Music",Sangeet Bangla 
+https://last.gcdn.co/IND405/index.m3u8
+
+
+#EXTINF:-1 tvg-id="GaanBangla.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="http://enjoy.speedlinks.com.bd/uploads/tv_image/atn-music.jpg" group-title="Music",Atn Bangla Music
+https://last.gcdn.co/IND446/index.m3u8
+
+
+#EXTINF:-1 tvg-id="GaanBangla.bd" tvg-country="BD" tvg-language="Bengali" tvg-logo="http://gaanbangla.tv/img/logo.png" group-title="Music",Gaan Bangla hd
+https://last.gcdn.co/IND442/index.m3u8
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="Music",MTV
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsX9-AOIJFogBoVa0Ko3mQQ4/ts
+
+#EXTINF: -1 tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.jpg" group-title="Music",9XM
+http://65.2.4.240/jioo.php?c=9XM&q=1200&e=.m3u8
+
+#EXTINF:-1 tvg-id="DesiChannel.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Desi Channel
+https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Dhamaal.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Dhamaal
+https://live.hungama.com/linear/dhamaal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DilSe.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Dil Se 
+https://live.hungama.com/linear/dil-se/playlist.m3u8
+#EXTINF:-1 tvg-id="ILove.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/u191zfh.png" group-title="Music",I Love (
+http://14.199.164.20:4001/play/a0p3/index.m3u8
+#EXTINF:-1 tvg-id="PopPataka.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Pop Pataka
+https://live.hungama.com/linear/pop-pataka/playlist.m3u8
+#EXTINF:-1 tvg-id="Nazrana.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="" group-title="Music",Nazrana
+https://live.hungama.com/linear/nazrana/playlist.m3u8
+#EXTINF:-1 tvg-id="MH1Music.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/mCsYdYS.png" group-title="Music",MH1 Music 
+http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="MtunesPlus.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/Rt7k6E3.png" group-title="Music",Mtunes Plus 
+http://14.199.164.20:4001/play/a0p2/index.m3u8
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-country="IN" tvg-language="Hindi" tvg-logo="https://i.imgur.com/F7tPCwh.png" group-title="Music",Music India 
+http://14.199.164.20:4001/play/a0mt/index.m3u8
+
+
+*****end Music***
+
+
